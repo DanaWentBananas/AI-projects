@@ -1,0 +1,85 @@
+______________________**MACHINE LEARNING PROCESS**
+
+1-Define the objective of the problem (to predict the possibility of rain by studying the weather conditions)
+	-what are we trying to predict?
+	-what are the target features?
+	-what is the input data?
+	-is the kind of problem binary classification? regression? clustering?
+
+2-Data gathering (weather conditions, humidity level, temprature, pressure, scraped from web or manually collected)
+
+3-Preparing data (getting rid of missing values and incosistencies)
+
+4-Exploratory data analysis (understanding the patterns and trends in the data,find correlations between variables)
+
+5-Building a machine learning model (a predictive model is built using ml algotithms)
+
+6-Model evaluation and optimization
+	-ml model is evaluated using testing data
+	-accuracy of model is calculated
+	-imporovement in the model is done (paramater tuning)
+
+7-Predictions 
+
+
+______________________**TYPES OF MACHINE LEARNING**
+
+1-Supervised learning
+	-teaching and training the machine using well labelled data
+	-solves regression and classification problems
+	-popular algorithms used (linear regression, logistic regression, KNN, support vector machine)
+
+2-Unsupervised learning
+	-training the machine using information that is unlabeled and allowing the algorithm to act on that information without guidance
+	-solves association and clustering problems
+	-popular algorithms used (k-means, c-means)
+
+3-Reinforcement learning
+	-an agent is put in an enviroment and he learns to behave in it by performing certain actions and observing the rewards which it gets from those actions.
+	-solves reward based problems
+	-popular algorithms used (Q-learning, SARSA)
+
+______________________**TYPES OF PROBLEMS THAT ARE SOLVED BY MACHINE LEARNING**
+
+1-Regression
+	-supervised learning
+	-output is a continuous quantity
+	-main aim is to forecast or predict
+	-algorithm: linear regression
+	-ex: stock market prediction
+
+2-Classification
+	-supervised learning
+	-output is a categorical quantity
+	-main aim is to compute the category of the data
+	-algorithm: logistic regression
+	-ex: classify emails as spam or non spam
+
+3-Clustering
+	-unsupervised learning
+	-assigns data points into clusters
+	-main aim is to group similar items clusters
+	-algorithm: k-means
+	-ex: find all fraudulent transactions - netflix
+
+______________________**SUPERVISED LEARNING ALGORITHMS**
+
+1- Linear regression
+	-Y(dependent variable) = Bo(y intercept) + B1(slope)X(independant variable) + e(error)
+
+2- Logistic regression
+	-predicts a dependent categorical variables using a given set of independent variables 
+
+3- Decision tree
+	-uses ID3 algorithm
+	-calculate entropy and information gain to find the best attribute
+
+4- Random forest
+	-bootsrapping > decision trees
+	-Avoids overfitting
+	-more accurate than decision tree
+	-uses bagging
+
+
+
+
