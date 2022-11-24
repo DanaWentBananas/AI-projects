@@ -1,0 +1,29 @@
+-car detection
+
+-a game that spots changes in 2 images
+
+-cat vs dog classification
+
+-Face landmark detection
+
+-object tracking
+
+-lego project for vivek
+
+-Hand gesture recognition
+
+-Buisness card scanner
+
+-License plate regonition
+
+-Traffick light detection
+
+-virtual keyboard with hand tracking
+
+-snap a pic in opencv and googgle using selenium then guess what it is use normalized correlation
+
+-opencv attendance system
+
+-solving math operations
+
+-sudoku solver
